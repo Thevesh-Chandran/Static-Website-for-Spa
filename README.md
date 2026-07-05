@@ -25,10 +25,6 @@ The site uses **HTML** and **CSS**, with **JavaScript** for animations and a res
 </div>
 
 ---
-
-## 🔗 Related Projects
-
-- 💼 [Swytch – Pay Hack Hackathon Submission](https://github.com/Thevesh-Chandran/Breaking-Bad-payhack)  
-  A Flutter-based smart payment app built for the Pay Hack Hackathon. It showcases seamless mode switching for transactions and an intuitive UI.  
+ 
 
 

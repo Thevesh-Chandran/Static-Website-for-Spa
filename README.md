@@ -1,13 +1,5 @@
-# 📚 Thevesh's Project Portfolio
 
-Welcome to my **personal project repository**!  
-I'm a **data analytics student** with a passion for exploring and building projects beyond my academic scope — from data analysis and visualization to creative web development and automation scripts.
-
-This repository serves as a space to document my learning journey, experiments, and real-world applications. Whether it's a class assignment, a freelance project, or something I built just for fun, you'll find it here.
-
----
-
-## 💎 Project: Jewels Health & Beauty Spa
+## 💎 Project codename Scratch
 
 One of my early projects — a custom website built from scratch for my mother's spa business, **Jewels Health & Beauty Spa**.  
 The site uses **HTML** and **CSS**, with **JavaScript** for animations and a responsive image carousel.
